@@ -1,9 +1,9 @@
-# Analisis Nilai Mahasiswa
+# Analisis Nilai Siswa
 
-Proyek analisis sederhana menggunakan Microsoft Excel untuk menghitung dan memvisualisasikan data nilai mahasiswa.
+Proyek analisis sederhana menggunakan Microsoft Excel untuk menghitung dan memvisualisasikan data nilai 30 siswa.
 
 ## 🔍 Isi Proyek
-- Data nilai 30 mahasiswa (Matematika & Statistika)
+- Data nilai 30 siswa (Matematika & IPA)
 - Perhitungan rata-rata, median, standar deviasi
 - Grafik histogram & mahasiswa terbaik
 - Kesimpulan hasil analisis
